@@ -3,3 +3,10 @@ Esta carpeta contiene los avances del baseline contra el cual se comparará el m
 Actualmente contiene 2 algoritmos:
 - Text-rank
 - Fractalidad
+
+
+Esta carpeta utiliza las siguientes librerías:
+- nummpy
+- pandas
+- jupyter
+- 
