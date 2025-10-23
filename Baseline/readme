@@ -6,7 +6,7 @@ Actualmente contiene 2 algoritmos:
 
 
 Esta carpeta utiliza las siguientes librerías:
-- nummpy
-- pandas
 - jupyter
-- 
+- numpy
+- pandas
+- spacy
